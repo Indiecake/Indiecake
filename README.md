@@ -20,8 +20,8 @@
 ✨ where you can find me ✨
   
   <p align="center"><br/>
-   <a href="www.linkedin.com/in/daniel-alejandroMO">
-     Linkedin
+   <a href="https://www.linkedin.com/in/daniel-alejandroMO">
+     LinkedIn
   </a>
    | 
   
