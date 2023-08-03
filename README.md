@@ -3,16 +3,19 @@
 
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
 
-### 💻 my favorite stack:
+### 💻 I Have some experience with this tools :
 - Angular2 🤘
-- NodeJS & Express
+- NodeJS
 - Laravel
-- HTML & CSS
+- Elixir 
+- Rust
+- Solidity
 - A little bit of C#
 
 ### 😀 a little about myself:
-- I'm 23 years old, and I live in Sonora, MX.
+- I'm 26 years old, and I live in Sonora, MX.
 - I love learn new stuff.
+- My favorite animal are the cats 🐈
 
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
 
@@ -22,12 +25,7 @@
   <p align="center"><br/>
    <a href="https://www.linkedin.com/in/daniel-alejandroMO">
      LinkedIn
-  </a>
-   | 
-  
-  <a href="https://www.instagram.com/daniel.alejandro.mo/">
-      Instagram
-  </a>
+   </a>
 </p>
 </h1>
 
