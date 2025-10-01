@@ -1,17 +1,20 @@
 <h1 align="center"> 😁 hello, i'm Daniel Alejandro 😁 </h1>
-<h3 align="center">🚀 fullstack devlover 🚀</h3>
+<h3 align="center">🚀 Software Engineer 🚀</h3>
 
 ### 💻 I Have some experience with this tools :
 - Angular2 🤘
+- React
+- Redux
 - NodeJS
-- Laravel
+- PHP
+- Python
 - Elixir 
 - Rust
 - Solidity
 - A little bit of C#
 
 ### 😀 a little about myself:
-- I'm 26 years old, and I live in Sonora, MX.
+- I'm 28 years old, and I live in Sonora, MX.
 - I love learn new stuff.
 - My favorite animal are the cats 🐈
 
